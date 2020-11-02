@@ -1,0 +1,217 @@
+<!doctype html>
+<html lang="jp">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+    <title>Hello, world!</title>
+</head>
+
+<body>
+    <div class="container-fluid">
+        <!-- ヘッダー -->
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="#">PersonalBodyAssessment</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02"
+                aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+                <form class="form-inline mr-auto mt-2 mt-lg-0">
+                    <input class="form-control mr-sm-1" type="date">
+                    <input class="form-control mr-sm-2" type="search" placeholder="検索">
+                    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">検索</button>
+                </form>
+                <ul class="navbar-nav my-2 my-lg-0">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">ログアウト</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">消えるやつ</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+        <div class="row">
+            <div class="col-2">
+                <!-- サイドメニュー -->
+                <div class="nav flex-column nav-pills sidevar-fixed" id="v-pills-tab" role="tablist"
+                    aria-orientation="vertical">
+                    <a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab"
+                        aria-controls="v-pills-home" aria-selected="true">ホーム</a>
+                    <a class="nav-link" id="v-pills-meal-tab" data-toggle="pill" href="#v-pills-meal" role="tab"
+                        aria-controls="v-pills-meal" aria-selected="false">食事</a>
+                    <a class="nav-link" id="v-pills-sleep-tab" data-toggle="pill" href="#v-pills-sleep" role="tab"
+                        aria-controls="v-pills-sleep" aria-selected="false">睡眠</a>
+                    <a class="nav-link" id="v-pills-activity-tab" data-toggle="pill" href="#v-pills-activity" role="tab"
+                        aria-controls="v-pills-activity" aria-selected="false">活動</a>
+                    <a class="nav-link" id="v-pills-health-tab" data-toggle="pill" href="#v-pills-health" role="tab"
+                        aria-controls="v-pills-health" aria-selected="false">健康管理</a>
+                    <a class="nav-link" id="v-pills-problemPoint-tab" data-toggle="pill" href="#v-pills-problemPoint"
+                        role="tab" aria-controls="v-pills-problemPoint" aria-selected="false">問題点</a>
+                    <a class="nav-link" id="v-pills-plan-tab" data-toggle="pill" href="#v-pills-plan" role="tab"
+                        aria-controls="v-pills-plan" aria-selected="false">計画</a>
+                    <a class="nav-link" id="v-pills-assessment-tab" data-toggle="pill" href="#v-pills-assessment"
+                        role="tab" aria-controls="v-pills-assessment" aria-selected="false">評価</a>
+                </div>
+            </div>
+            <div class="col-9">
+                <!-- メインコンテンツ -->
+                <div class="tab-content" id="v-pills-tabContent">
+                    <!-- ホーム -->
+                    <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel"
+                        aria-labelledby="v-pills-home-tab">
+                        お知らせ
+                    </div>
+                    <!-- 食事 -->
+                    <div class="tab-pane fade" id="v-pills-meal" role="tabpanel" aria-labelledby="v-pills-meal-tab">
+                        <ul class="nav nav-tabs" id="mealTab" role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link active" id="mealList-tab" data-toggle="tab" href="#mealList"
+                                    role="tab" aria-controls="home" aria-selected="true">一覧</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="profile-tab" data-toggle="tab" href="#mealGraph" role="tab"
+                                    aria-controls="profile" aria-selected="false">グラフ</a>
+                            </li>
+                        </ul>
+                        <div class="tab-content" id="mealTabContent">
+                            <div class="tab-pane fade show active" id="mealList" role="tabpanel"
+                                aria-labelledby="mealList-tab">
+                                食事の一覧</div>
+                            <div class="tab-pane fade" id="mealGraph" role="tabpanel" aria-labelledby="mealGraph-tab">
+                                食事のグラフ
+                            </div>
+                        </div>
+                    </div>
+                    <!-- 睡眠 -->
+                    <div class="tab-pane fade" id="v-pills-sleep" role="tabpanel" aria-labelledby="v-pills-sleep-tab">
+                        <ul class="nav nav-tabs" id="sleepTab" role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link active" id="sleepList-tab" data-toggle="tab" href="#sleepList"
+                                    role="tab" aria-controls="sleepList" aria-selected="true">一覧</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="sleepGraph-tab" data-toggle="tab" href="#sleepGraph" role="tab"
+                                    aria-controls="sleepGraph" aria-selected="false">グラフ</a>
+                            </li>
+                        </ul>
+                        <div class="tab-content" id="sleepTabContent">
+                            <div class="tab-pane fade show active" id="sleepList" role="tabpanel"
+                                aria-labelledby="home-tab">
+                                睡眠の一覧</div>
+                            <div class="tab-pane fade" id="sleepGraph" role="tabpanel" aria-labelledby="profile-tab">
+                                睡眠のグラフ</div>
+
+                        </div>
+                    </div>
+                    <!-- 活動 -->
+                    <div class="tab-pane fade" id="v-pills-activity" role="tabpanel"
+                        aria-labelledby="v-pills-activity-tab">
+                        <ul class="nav nav-tabs" id="activityTab" role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link active" id="activityList-tab" data-toggle="tab" href="#activityList"
+                                    role="tab" aria-controls="activityList" aria-selected="true">一覧</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="activityGraph-tab" data-toggle="tab" href="#activityGraph"
+                                    role="tab" aria-controls="activityGraph" aria-selected="false">グラフ</a>
+                            </li>
+                        </ul>
+                        <div class="tab-content" id="activityTabContent">
+                            <div class="tab-pane fade show active" id="activityList" role="tabpanel"
+                                aria-labelledby="activityList-tab">活動の一覧</div>
+                            <div class="tab-pane fade" id="activityGraph" role="tabpanel"
+                                aria-labelledby="activityGraph-tab">
+                                活動のグラフ</div>
+                        </div>
+                    </div>
+                    <!-- 健康管理 -->
+                    <div class="tab-pane fade" id="v-pills-health" role="tabpanel" aria-labelledby="v-pills-health-tab">
+                        <ul class="nav nav-tabs" id="healthTab" role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link active" id="healthList-tab" data-toggle="tab" href="#healthList"
+                                    role="tab" aria-controls="healthList" aria-selected="true">一覧</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="healthGraph-tab" data-toggle="tab" href="#healthGraph"
+                                    role="tab" aria-controls="healthGraph" aria-selected="false">グラフ</a>
+                            </li>
+                        </ul>
+                        <div class="tab-content" id="healthTabContent">
+                            <div class="tab-pane fade show active" id="healthList" role="tabpanel"
+                                aria-labelledby="healthList-tab">健康管理一覧</div>
+                            <div class="tab-pane fade" id="healthGraph" role="tabpanel"
+                                aria-labelledby="healthGraph-tab">
+                                健康管理のグラフ</div>
+                        </div>
+                    </div>
+                    <!-- 問題点 -->
+                    <div class="tab-pane fade" id="v-pills-problemPoint" role="tabpanel"
+                        aria-labelledby="v-pills-messages-tab">
+                        <ul class="nav nav-tabs" id="problemPointTab" role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link active" id="problemPointList-tab" data-toggle="tab"
+                                    href="#problemPointList" role="tab" aria-controls="healthList"
+                                    aria-selected="true">一覧</a>
+                            </li>
+                        </ul>
+                        <div class="tab-content" id="problemPointTab">
+                            <div class="tab-pane fade show active" id="problemPointList" role="tabpanel"
+                                aria-labelledby="problemPointList-tab">問題点一覧</div>
+                        </div>
+                    </div>
+                    <!-- 計画 -->
+                    <div class="tab-pane fade" id="v-pills-plan" role="tabpanel" aria-labelledby="v-pills-settings-tab">
+                        <ul class="nav nav-tabs" id="planTab" role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link active" id="planList-tab" data-toggle="tab" href="#planList"
+                                    role="tab" aria-controls="planList" aria-selected="true">一覧</a>
+                            </li>
+                        </ul>
+                        <div class="tab-content" id="planTabContent">
+                            <div class="tab-pane fade show active" id="planList" role="tabpanel"
+                                aria-labelledby="planList-tab">計画一覧</div>
+                        </div>
+
+                    </div>
+                    <!-- 評価 -->
+                    <div class="tab-pane fade" id="v-pills-assessment" role="tabpanel"
+                        aria-labelledby="v-pills-assessment-tab">
+                        <ul class="nav nav-tabs" id="assessmentTab" role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link active" id="assessmentList-tab" data-toggle="tab"
+                                    href="#assessmentList" role="tab" aria-controls="assessmentList"
+                                    aria-selected="true">一覧</a>
+                            </li>
+                        </ul>
+                        <div class="tab-content" id="assessmentTabContent">
+                            <div class="tab-pane fade show active" id="assessmentList" role="tabpanel"
+                                aria-labelledby="assessmentList-tab">評価一覧</div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <!-- Optional JavaScript -->
+            <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+            <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+                integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+                crossorigin="anonymous"></script>
+            <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+                integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+                crossorigin="anonymous"></script>
+            <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+                integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+                crossorigin="anonymous"></script>
+</body>
+
+</html>

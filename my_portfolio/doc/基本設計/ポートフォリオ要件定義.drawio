@@ -1,0 +1,189 @@
+<mxfile host="22ed9f21-806a-46a5-9e7a-31ccf912450e" modified="2020-08-27T02:59:12.073Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.48.2 Chrome/78.0.3904.130 Electron/7.3.2 Safari/537.36" etag="sfgy8sBRW93MQH22RWWx" version="13.1.3">
+    <diagram id="uHfVDALKojzveZ5rj6mH" name="ページ1">
+        <mxGraphModel dx="822" dy="1649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="999-vn04YuLt1qw49DBa-3" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="999-vn04YuLt1qw49DBa-1" target="999-vn04YuLt1qw49DBa-2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="999-vn04YuLt1qw49DBa-13" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="999-vn04YuLt1qw49DBa-1" target="999-vn04YuLt1qw49DBa-12" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="999-vn04YuLt1qw49DBa-14" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="999-vn04YuLt1qw49DBa-1" target="999-vn04YuLt1qw49DBa-12" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="999-vn04YuLt1qw49DBa-16" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="999-vn04YuLt1qw49DBa-1" target="999-vn04YuLt1qw49DBa-15" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="999-vn04YuLt1qw49DBa-1" value="ポートフォリオ要件定義" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" parent="1" vertex="1">
+                    <mxGeometry x="70" y="110" width="440" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="999-vn04YuLt1qw49DBa-18" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="999-vn04YuLt1qw49DBa-2" target="999-vn04YuLt1qw49DBa-17" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="999-vn04YuLt1qw49DBa-20" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="999-vn04YuLt1qw49DBa-2" target="999-vn04YuLt1qw49DBa-19" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="999-vn04YuLt1qw49DBa-2" value="システムの目的" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" parent="1" vertex="1">
+                    <mxGeometry x="600" y="10" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="999-vn04YuLt1qw49DBa-12" value="対象" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" parent="1" vertex="1">
+                    <mxGeometry x="600" y="110" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="999-vn04YuLt1qw49DBa-15" value="機能" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;" parent="1" vertex="1">
+                    <mxGeometry x="600" y="210" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="999-vn04YuLt1qw49DBa-22" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="999-vn04YuLt1qw49DBa-17" target="999-vn04YuLt1qw49DBa-21" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="999-vn04YuLt1qw49DBa-17" value="システムを開発する目的" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="810" y="-79" width="190" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="999-vn04YuLt1qw49DBa-19" value="システムを利用することで何が可能になるか" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="810" y="10" width="260" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="999-vn04YuLt1qw49DBa-24" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=elbowEdgeStyle;" parent="1" source="999-vn04YuLt1qw49DBa-21" target="999-vn04YuLt1qw49DBa-23" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="999-vn04YuLt1qw49DBa-26" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="999-vn04YuLt1qw49DBa-21" target="999-vn04YuLt1qw49DBa-25" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="999-vn04YuLt1qw49DBa-28" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="999-vn04YuLt1qw49DBa-21" target="999-vn04YuLt1qw49DBa-27" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="999-vn04YuLt1qw49DBa-21" value="生活上の問題の発見・解決" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="1090" y="-79" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="999-vn04YuLt1qw49DBa-23" value="&lt;ul style=&quot;font-size: 20px;&quot;&gt;&lt;li style=&quot;font-size: 20px;&quot;&gt;体調管理の記録から自分の生活上の問題点を発見し、問題解決のためのアプローチを行いやすくする&lt;/li&gt;&lt;li style=&quot;font-size: 20px;&quot;&gt;例：肩こりがひどい　→　食生活が乱れているから直そう、運動不足で筋力が落ちてるから筋トレしよう等&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="1320" y="-380" width="410" height="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="999-vn04YuLt1qw49DBa-25" value="&lt;ul style=&quot;font-size: 20px;&quot;&gt;&lt;li style=&quot;font-size: 20px;&quot;&gt;自分にどのような問題があるのか気付くことができる&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="1320" y="-79" width="360" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="999-vn04YuLt1qw49DBa-30" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;endArrow=diamond;endFill=0;startArrow=none;startFill=0;rounded=0;strokeWidth=3;shape=link;dashed=1;dashPattern=1 1;" parent="1" source="999-vn04YuLt1qw49DBa-27" target="999-vn04YuLt1qw49DBa-29" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1380" y="190"/>
+                            <mxPoint x="1500" y="190"/>
+                            <mxPoint x="1300" y="190"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="999-vn04YuLt1qw49DBa-27" value="フロー" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="1320" y="80" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="999-vn04YuLt1qw49DBa-32" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="999-vn04YuLt1qw49DBa-29" target="999-vn04YuLt1qw49DBa-31" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="999-vn04YuLt1qw49DBa-29" value="①　食事、睡眠、活動（運動内容）の記録" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="1175" y="200" width="410" height="65" as="geometry"/>
+                </mxCell>
+                <mxCell id="999-vn04YuLt1qw49DBa-34" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="999-vn04YuLt1qw49DBa-31" target="999-vn04YuLt1qw49DBa-33" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="999-vn04YuLt1qw49DBa-31" value="②　問題点の発見、抽出" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="1175" y="432.5" width="410" height="65" as="geometry"/>
+                </mxCell>
+                <mxCell id="999-vn04YuLt1qw49DBa-36" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="999-vn04YuLt1qw49DBa-33" target="999-vn04YuLt1qw49DBa-35" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;" edge="1" parent="1" source="999-vn04YuLt1qw49DBa-33" target="2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="999-vn04YuLt1qw49DBa-33" value="③　優先順位の決定" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="1190" y="592.5" width="410" height="65" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;" edge="1" parent="1" source="14" target="4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;" edge="1" parent="1" source="2" target="8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="解決するべき問題点の優先順位を決定します。" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="1680" y="592.5" width="410" height="65" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="例：&lt;br&gt;&lt;span&gt;１．運動不足による体力低下&lt;br&gt;&lt;/span&gt;&lt;span&gt;２．夜更かしによる睡眠不足&lt;br&gt;&lt;/span&gt;&lt;span&gt;３．野菜不足による栄養バランスの偏り&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="2170" y="560.63" width="410" height="128.75" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;" edge="1" parent="1" source="4" target="6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;fontSize=20;" edge="1" parent="1" source="16" target="20">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="例：運動不足の場合" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="2410" y="1337.5" width="230" height="65" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="例：運動不足の場合" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="2410" y="1562.5" width="230" height="65" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;fontSize=20;" edge="1" parent="1" source="20" target="22">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="週間目標：今よりも体力を上げる&lt;br&gt;月間目標：筋肉をつけていく" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="2820" y="1337.5" width="410" height="65" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;fontSize=20;shape=link;" edge="1" parent="1" source="22" target="24">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;fontSize=20;" edge="1" parent="1" source="22" target="26">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="週間目標：今よりも体力を上げる" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="2820" y="1562.5" width="410" height="65" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;自重トレーニング&lt;/span&gt;&lt;/li&gt;&lt;li&gt;ウォーキング３０分&lt;/li&gt;&lt;li&gt;近所のジムに見学に行ってみる&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="3308" y="1546.25" width="410" height="97.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;fontSize=20;" edge="1" parent="1" source="24" target="28">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="&lt;span&gt;月間目標：筋肉をつけていく&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="2820" y="1772.5" width="410" height="65" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="&lt;ul&gt;&lt;li&gt;トレーニングを週1から週３にする&lt;/li&gt;&lt;li&gt;トレーニングの回数、セット数を増やす&lt;/li&gt;&lt;li&gt;※　あくまで私の考えですが、週間目標を3日～1週間こなしてから月間目標を考えた方がスムーズに決められます&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="3312" y="1710" width="410" height="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="999-vn04YuLt1qw49DBa-38" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="999-vn04YuLt1qw49DBa-35" target="999-vn04YuLt1qw49DBa-37" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;" edge="1" parent="1" source="999-vn04YuLt1qw49DBa-35" target="13">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1780" y="1320" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="999-vn04YuLt1qw49DBa-35" value="④　週間目標、月間目標に基づいた改善計画を立てる" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="1190" y="1130" width="450" height="65" as="geometry"/>
+                </mxCell>
+                <mxCell id="999-vn04YuLt1qw49DBa-37" value="⑤　計画の実施・評価" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="1180" y="1520" width="410" height="65" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=classic;endFill=1;strokeWidth=1;" edge="1" parent="1" source="8" target="8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;fontSize=20;" edge="1" parent="1" source="13" target="14">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="計画作成の流れ" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="1830" y="1132.5" width="220" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;fontSize=20;" edge="1" parent="1" source="14" target="16">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="&lt;ul&gt;&lt;li&gt;１．まず上記で挙げた問題点に対して大まかな目標を立てる。この場合1週間で達成できそうなこと、1か月で達成できそうなことを基準に考える&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="1760" y="1300" width="360" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;fontSize=20;" edge="1" parent="1" source="16" target="18">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="&lt;ul&gt;&lt;li&gt;２．次に１で挙げた目標を達成するために何が必要かを箇条書きにしていく&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="1760" y="1550" width="360" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="&lt;ul&gt;&lt;li&gt;３．達成できたら実施評価へ&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="1760" y="1754" width="360" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
